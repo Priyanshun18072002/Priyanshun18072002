@@ -4,10 +4,10 @@
 
 <br/>
 
-<a href="https://twitter.com/"><img align="left" alt="Priyanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://twitter.com/nigam92824"><img align="left" alt="Priyanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/priyanshunigamm/"><img align="left" alt="Priyanshu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/"><img align="left" alt="Priyanshu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.youtube.com/"><img align="left" alt="Priyanshu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a href="https://www.instagram.com/priyanshunigam57/"><img align="left" alt="Priyanshu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://m.facebook.com/priyanshu.nigam.503/"><img align="left" alt="Priyanshu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 
 <br/><br/>
 
