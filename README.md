@@ -1,24 +1,44 @@
-# 💫 About Me:
-🚀 Priyanshu Nigam | Software Developer & AI Enthusiast<br>🌟 Turning ideas into scalable tech solutions<br><br>💡 About Me<br>🚀 Passionate about Software Development, AI/ML, and Cloud Computing<br>🎓 B.Tech in Information Technology (GL Bajaj Institute of Technology, 2021-2025)<br>🏆 5★ CodeChef | 5★ HackerRank | 450+ DSA problems solved<br>🤖 Built AI-driven projects like PPE Violation Detection & Real-time People Counting<br>💬 Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!<br>💡 Future Goals: Learn more technologies & never stop creating new ideas<br><br>📌 Projects<br> 🦺 PPE Violation Detection → AI-based workplace safety monitoring<br>🏦 SmartBank → Secure online banking system (Java, MySQL, Spring Boot)<br>🌿 AYURMEDS → Ayurvedic medicine recommendation system<br>🌍 Tourist Management System → Java & SQL-based tourism service<br>🖥️ Portfolio Website → Personal portfolio showcasing projects & skills (HTML, CSS, JavaScript)<br><br>💡 Code. Build. Innovate. 🚀<br><br>
+### [Connect with me 💬](https://www.linkedin.com/in/priyanshunigamm/)
 
+### Hello World 👋 I'm [Priyanshu Nigam!](https://www.linkedin.com/in/priyanshunigamm/)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/priyanshu.nigam.503) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshunigam57) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshunigamm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nigam92824) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshunigam35096@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Priyanshun18072002&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Priyanshun18072002&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshun18072002&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<a href="https://twitter.com/"><img align="left" alt="Priyanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/priyanshunigamm/"><img align="left" alt="Priyanshu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/"><img align="left" alt="Priyanshu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.youtube.com/"><img align="left" alt="Priyanshu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<br/><br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Priyanshun18072002&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+Hi, I'm Priyanshu🙌, a passionate Software Developer with expertise in AI/ML, Web Development, and Problem Solving.
 
----
-[![](https://visitcount.itsvg.in/api?id=Priyanshun18072002&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Talking about Personal Stuffs:**
+
+- 🌱 Currently exploring AI/ML and Computer Vision.
+- 👨‍💻 Part of various developer communities.
+- 💬 Ask me about Java, DSA, MySQL, AI/ML.
+- 💌 Reach me at: [Email](mailto:priyanshunigam35096@gmail.com)
+- 📂 [My Portfolio](https://priyanshunigam-halva-ba4c72.netlify.app/)
+
+**Community Involvement:**
+- GDSC GL Bajaj
+- CodeChef (3*) | Leetcode | HackerRank (4*)
+- Techsaksham & Microsoft Regional Showcase Winner
+
+**Projects:**
+- [PPE Violation Detection](https://github.com/Priyanshun18072002/PPE_DETECTION) - AI-powered safety compliance system.
+- [SmartBank](https://github.com/Priyanshun18072002/Bank_-Management_system) - Secure online banking system.
+- [AyurMeds](https://github.com/Priyanshun18072002/Ayurmeds) - AI-driven Ayurvedic medicine recommendation.
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+<a href=#><img src="https://raw.githubusercontent.com/anmolwadhwaxx/anmolwadhwaxx/deda191d8faa317e1087ba3e16bee98b6b9b29ea/snake.svg"></a>
